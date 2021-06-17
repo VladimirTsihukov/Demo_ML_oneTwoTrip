@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo_ML_oneTwoTrip</string>
+    <string name="air">Авиа</string>
+    <string name="hotels">Отели</string>
+    <string name="train_tickets">Ж/д билеты</string>
+    <string name="buses">Автобусы</string>
+    <string name="car">Авто</string>
+    <string name="excursions">Экскурсии</string>
+    <string name="sericat">Серитикаты</string>
+
+</resources>
